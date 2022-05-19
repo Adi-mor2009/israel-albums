@@ -1,0 +1,14 @@
+{
+    "albums": [
+        {
+            "id": "1",
+            "title-eng": "orange",
+            "title-fr": "orange",
+            "title-heb": "תפוז",
+            "source": "",
+            "tokens": [],
+            "year": "2018",
+            "reference": ""
+        }
+    ]
+}
